@@ -22,34 +22,34 @@ Developing a **Collaboration Web Application using AngularJS, Java, SpringMVC an
 
 ###Link for the Project:
 
-* [FrontEnd Application](https://github.com/ikismail/CollaborationFrontEnd.git)
-* [BackEnd Application](https://github.com/ikismail/CollabrationBackend.git)
+* [FrontEnd Application](https://github.com/ramonaoldf/CollaborationFrontEnd.git)
+* [BackEnd Application](https://github.com/ramonaoldf/CollabrationBackend.git)
 
 ###ScreenShots:
 
 * User Registeration Page
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Registeration.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Registeration.png)
 
 * User Login Page
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Vaidation.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Vaidation.png)
 
 * BlogList(Land Page): 
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/HomeBlog.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/HomeBlog.png)
 
 * Add Post:
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/AddPost.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/AddPost.png)
 
 * Job List:
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Job%20List.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Job%20List.png)
 
 * Add Job (can post by ADMIN or EMPLOYEE):
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/AddJob.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/AddJob.png)
 
 * UserList for sending friendRequest:
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/searchUser.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/searchUser.png)
 
 * invalid Login (Validation):
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Validation.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Validation.png)
 
 * LogOut:
-![Alt text](https://github.com/ikismail/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Login.png)
+![Alt text](https://github.com/ramonaoldf/CollaborationFrontEnd/blob/master/WebContent/c_resource/screenshots/Login.png)
